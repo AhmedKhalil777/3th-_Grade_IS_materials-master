@@ -10,6 +10,10 @@
  - [Slides](https://drive.google.com/open?id=1iLydjCUt4AugWrIef8iU3RfWiGT-6FC_)
 
  ---
+ ### intelligent IS
+  - [slides](https://drive.google.com/folderview?id=1hMI1drF0yrt0y3XVKxoRHWu6N-e5Zuld)
+  ---
+ مادة
  ### مادة برمجة الشبكات دكتورة سارة 
 - #### المحاضرات 
  - [The 1st](https://drive.google.com/file/d/1vcv_fuXIPtCmTOsbSa45TUHZuAOdjCbE/view?fbclid=IwAR0HB_6m0WaPHfAafvMz4oIyoUA7ofqOIBjexHWlANtn-4_bTd7JLmFaWDc)
