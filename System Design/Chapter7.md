@@ -8,22 +8,22 @@
 Diff: 2 Page Ref: 189-190
 71
 
-Which of the following is a true statement? 
-A. Data characteristics are dynamic. 
-B. A data model explains the transient form of an organization. 
-C. An information system design based on a data orientation, rather than a process or logic orientation, should have a longer useful life. 
-D. Data flow paths are permanent. 
-E. A data model graphically represents the processes that capture, manipulate, store, and distribute data between a system and its environment and among components within a system.
-Answer: C
+## Which of the following is a true statement? 
+- A. Data characteristics are dynamic. 
+- B. A data model explains the transient form of an organization. 
+- C. An information system design based on a data orientation, rather than a process or logic orientation, should have a longer useful life. 
+- D. Data flow paths are permanent. 
+- E. A data model graphically represents the processes that capture, manipulate, store, and distribute data between a system and its environment and among components within a system.
+- Answer: C
 Diff: 3 Page Ref: 190
 
 72
 
-Conceptual data modeling is typically done in parallel with other requirements analysis and structuring steps during: 
-A. systems planning and selection. 
-B. systems design. 
-C. systems analysis. 
-D. systems implementation and operation. 
+## Conceptual data modeling is typically done in parallel with other requirements analysis and structuring steps during: 
+-A. systems planning and selection. 
+-B. systems design. 
+-C. systems analysis. 
+-D. systems implementation and operation. 
 E. systems evaluation.
 Answer: C
 Diff: 2 Page Ref: 190
