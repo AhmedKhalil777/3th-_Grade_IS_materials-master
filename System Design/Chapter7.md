@@ -1,10 +1,10 @@
-Some systems developers believe that a data model is the most important part of the statement of information system requirements because: 
-A. the characteristics of data captured during data modeling are crucial in the design of databases, programs, computer screens, and printed reports. 
-B. data rather than processes are the most complex aspects of many modern information systems and thus require a central role in structuring system requirements. 
-C. the characteristics about data are reasonably permanent. 
-D. structural information about data is essential to generate programs automatically. 
-E. of all of the above.
-Answer: E
+## Some systems developers believe that a data model is the most important part of the statement of information system requirements because: 
+ - A. the characteristics of data captured during data modeling are crucial in the design of databases, programs, computer screens, and printed reports. 
+ - B. data rather than processes are the most complex aspects of many modern information systems and thus require a central role in structuring system requirements. 
+ - C. the characteristics about data are reasonably permanent. 
+ - D. structural information about data is essential to generate programs automatically. 
+ - E. of all of the above.
+- Answer: E
 Diff: 2 Page Ref: 189-190
 71
 
