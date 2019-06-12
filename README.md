@@ -8,7 +8,8 @@
 ### مادة ال 
 ### System Design : DR : Samir  Abd El-razik--> slides
  - [Slides](https://drive.google.com/open?id=1iLydjCUt4AugWrIef8iU3RfWiGT-6FC_)
-
+ - [final](https://quizlet.com/jmotacek)
+)
  ---
  ### intelligent IS
   - [slides](https://drive.google.com/folderview?id=1hMI1drF0yrt0y3XVKxoRHWu6N-e5Zuld)
