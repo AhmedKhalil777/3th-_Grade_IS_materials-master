@@ -1,0 +1,11 @@
+/home/ahmedkhalil777/projects/dotnetprojs/Series/bin/Debug/netcoreapp2.2/Series.deps.json
+/home/ahmedkhalil777/projects/dotnetprojs/Series/bin/Debug/netcoreapp2.2/Series.runtimeconfig.json
+/home/ahmedkhalil777/projects/dotnetprojs/Series/bin/Debug/netcoreapp2.2/Series.runtimeconfig.dev.json
+/home/ahmedkhalil777/projects/dotnetprojs/Series/bin/Debug/netcoreapp2.2/Series.dll
+/home/ahmedkhalil777/projects/dotnetprojs/Series/bin/Debug/netcoreapp2.2/Series.pdb
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.csprojAssemblyReference.cache
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.csproj.CoreCompileInputs.cache
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.AssemblyInfoInputs.cache
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.AssemblyInfo.cs
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.dll
+/home/ahmedkhalil777/projects/dotnetprojs/Series/obj/Debug/netcoreapp2.2/Series.pdb
